@@ -13,9 +13,10 @@ export default function Home() {
           <p>Google Developer Student Clubs Middle East Technical University</p>
         </div>
         <div>
-          <LinkButton></LinkButton>
-          <LinkButton></LinkButton>
-          <LinkButton></LinkButton>
+          <LinkButton icon={"whatsapp"} title={"WhatsApp"} link={}></LinkButton>
+          <LinkButton icon={"whatsapp"} title={"WhatsApp"}></LinkButton>
+          <LinkButton icon={"whatsapp"} title={"WhatsApp"}></LinkButton>
+          
         </div>
       </div>
     </main>
